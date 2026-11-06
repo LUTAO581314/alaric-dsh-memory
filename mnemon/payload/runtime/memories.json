@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "content": "外语字幕剪辑默认风格：保留原片中文字幕/贴纸/标题不遮挡；外语字幕只描边（白字黑边+淡阴影），不加底板；1080x1920 竖屏。",
+      "target": "user",
+      "importance": "critical",
+      "created_at": "2026-11-04T08:21:13.764Z",
+      "updated_at": "2026-11-04T08:21:13.764Z",
+      "origin": {
+        "machine": "664ea5fe-fbcb-4564-84b5-4df88e787b29",
+        "label": "L-L",
+        "at": "2026-11-04T08:21:13.764Z"
+      }
+    }
+  ]
+}
